@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Wandrag</h1>
 <h3 align="center">A passionate frontend developer from Cape Town</h3>
 
-- 🌱 I’m currently learning **Vue/React**
+- 🌱 I’m currently learning **Vue/React/Svelte**
 
 - 👨‍💻 All of my projects are available at [https://jason-wandrag.netlify.app/](https://jason-wandrag.netlify.app/)
 
