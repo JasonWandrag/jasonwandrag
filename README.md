@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jasonwandrag@gmail.com**
 
-- 📄 Know about my experiences [https://jason-wandrag.netlify.app/](https://jason-wandrag.netlify.app/)
+- 📄 See some cool [ideas](https://codepen.io/Chryptolite)
 
 - ⚡ Fun fact -> I have helped **over 200 actively employed** youths from underprivileged areas around Cape Town acquire the skillset and passion to become fullstack web developers
 
